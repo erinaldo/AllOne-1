@@ -1,0 +1,4 @@
+D:\WinForm\AllOne\AllOne\LibEntity\bin\Debug\LibEntity.dll
+D:\WinForm\AllOne\AllOne\LibEntity\bin\Debug\LibEntity.pdb
+D:\WinForm\AllOne\AllOne\LibEntity\obj\Debug\LibEntity.dll
+D:\WinForm\AllOne\AllOne\LibEntity\obj\Debug\LibEntity.pdb

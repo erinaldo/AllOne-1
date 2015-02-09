@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7A8D10BD-299B-480D-B9F0-60E2B1EEB194}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibEntity</RootNamespace>
+    <AssemblyName>LibEntity</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entity\BaoGia.cs" />
+    <Compile Include="Entity\BOM.cs" />
+    <Compile Include="Entity\ChamCong.cs" />
+    <Compile Include="Entity\CongTy.cs" />
+    <Compile Include="Entity\CTNhap.cs" />
+    <Compile Include="Entity\CTSanPham.cs" />
+    <Compile Include="Entity\CTXuat.cs" />
+    <Compile Include="Entity\DiemDanh.cs" />
+    <Compile Include="Entity\DonViTinh.cs" />
+    <Compile Include="Entity\DuToan.cs" />
+    <Compile Include="Entity\GiaGach.cs" />
+    <Compile Include="Entity\Invoice.cs" />
+    <Compile Include="Entity\KhachHang.cs" />
+    <Compile Include="Entity\Kho.cs" />
+    <Compile Include="Entity\License.cs" />
+    <Compile Include="Entity\Mau.cs" />
+    <Compile Include="Entity\NganHang.cs" />
+    <Compile Include="Entity\NgayLe.cs" />
+    <Compile Include="Entity\NguyenLieu.cs" />
+    <Compile Include="Entity\NhaCungCap.cs" />
+    <Compile Include="Entity\NhanVien.cs" />
+    <Compile Include="Entity\NhomKhachHang.cs" />
+    <Compile Include="Entity\NhomNhanVien.cs" />
+    <Compile Include="Entity\NhomNguyenLieu.cs" />
+    <Compile Include="Entity\NhomSanPham.cs" />
+    <Compile Include="Entity\NhomTaiKhoan.cs" />
+    <Compile Include="Entity\Packinglist.cs" />
+    <Compile Include="Entity\Packinglist2.cs" />
+    <Compile Include="Entity\Pallet.cs" />
+    <Compile Include="Entity\PalletMaster.cs" />
+    <Compile Include="Entity\PhieuNhap.cs" />
+    <Compile Include="Entity\PhieuXuat.cs" />
+    <Compile Include="Entity\PublicSP.cs" />
+    <Compile Include="Entity\PublicTable.cs" />
+    <Compile Include="Entity\QuocGia.cs" />
+    <Compile Include="Entity\SanPham.cs" />
+    <Compile Include="Entity\SanPhamGia.cs" />
+    <Compile Include="Entity\TaiKhoan.cs" />
+    <Compile Include="Entity\TangCa.cs" />
+    <Compile Include="Entity\ThietLapTinhLuong.cs" />
+    <Compile Include="Entity\TienGach.cs" />
+    <Compile Include="Entity\TienTe.cs" />
+    <Compile Include="Entity\TinhBaoGia.cs" />
+    <Compile Include="Entity\TinhThanh.cs" />
+    <Compile Include="Entity\TonKho.cs" />
+    <Compile Include="Entity\TyGiaQuyDoi.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

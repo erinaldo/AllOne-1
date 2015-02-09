@@ -1,0 +1,8 @@
+=================================================================================================
+DateTime:27-Jan-2015 20:12:46
+UserID:0001-Truong Minh Tam
+PC:TAM-PC-Tam
+ClassOrForm:FrmBaoGia
+FunctionName:bttLuu
+Error:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index

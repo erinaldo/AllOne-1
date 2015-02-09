@@ -1,0 +1,14 @@
+D:\WinForm\AllOne\AllOne\Common\bin\Debug\CommonDB.dll
+D:\WinForm\AllOne\AllOne\Common\bin\Debug\CommonDB.pdb
+D:\WinForm\AllOne\AllOne\Common\bin\Debug\CommonDB.xml
+D:\WinForm\AllOne\AllOne\Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WinForm\AllOne\AllOne\Common\bin\Debug\PublicUtility.dll
+D:\WinForm\AllOne\AllOne\Common\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\WinForm\AllOne\AllOne\Common\bin\Debug\PublicUtility.pdb
+D:\WinForm\AllOne\AllOne\Common\bin\Debug\PublicUtility.xml
+D:\WinForm\AllOne\AllOne\Common\obj\Debug\CommonDB.vbprojResolveAssemblyReference.cache
+D:\WinForm\AllOne\AllOne\Common\obj\Debug\CommonDB.Resources.resources
+D:\WinForm\AllOne\AllOne\Common\obj\Debug\CommonDB.vbproj.GenerateResource.Cache
+D:\WinForm\AllOne\AllOne\Common\obj\Debug\CommonDB.dll
+D:\WinForm\AllOne\AllOne\Common\obj\Debug\CommonDB.xml
+D:\WinForm\AllOne\AllOne\Common\obj\Debug\CommonDB.pdb

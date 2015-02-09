@@ -1,0 +1,11 @@
+D:\WinForm\AllOne\AllOne\PublicUtility\bin\Debug\PublicUtility.dll
+D:\WinForm\AllOne\AllOne\PublicUtility\bin\Debug\PublicUtility.pdb
+D:\WinForm\AllOne\AllOne\PublicUtility\bin\Debug\PublicUtility.xml
+D:\WinForm\AllOne\AllOne\PublicUtility\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WinForm\AllOne\AllOne\PublicUtility\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\WinForm\AllOne\AllOne\PublicUtility\obj\Debug\PublicUtility.Resources.resources
+D:\WinForm\AllOne\AllOne\PublicUtility\obj\Debug\PublicUtility.vbproj.GenerateResource.Cache
+D:\WinForm\AllOne\AllOne\PublicUtility\obj\Debug\PublicUtility.dll
+D:\WinForm\AllOne\AllOne\PublicUtility\obj\Debug\PublicUtility.xml
+D:\WinForm\AllOne\AllOne\PublicUtility\obj\Debug\PublicUtility.pdb
+D:\WinForm\AllOne\AllOne\PublicUtility\obj\Debug\PublicUtility.vbprojResolveAssemblyReference.cache

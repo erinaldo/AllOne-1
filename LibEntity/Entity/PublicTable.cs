@@ -1,0 +1,47 @@
+using System; 
+ public class PublicTable
+ { 
+     public string Table_BaoGia= "BaoGia" ;
+     public string Table_BOM= "BOM" ;
+     public string Table_ChamCong= "ChamCong" ;
+     public string Table_CongTy= "CongTy" ;
+     public string Table_CTNhap= "CTNhap" ;
+     public string Table_CTSanPham= "CTSanPham" ;
+     public string Table_CTXuat= "CTXuat" ;
+     public string Table_DiemDanh= "DiemDanh" ;
+     public string Table_DonViTinh= "DonViTinh" ;
+     public string Table_DuToan= "DuToan" ;
+     public string Table_GiaGach= "GiaGach" ;
+     public string Table_Invoice= "Invoice" ;
+     public string Table_KhachHang= "KhachHang" ;
+     public string Table_Kho= "Kho" ;
+     public string Table_License= "License" ;
+     public string Table_Mau= "Mau" ;
+     public string Table_NganHang= "NganHang" ;
+     public string Table_NgayLe= "NgayLe" ;
+     public string Table_NguyenLieu= "NguyenLieu" ;
+     public string Table_NhaCungCap= "NhaCungCap" ;
+     public string Table_NhanVien= "NhanVien" ;
+     public string Table_NhomKhachHang= "NhomKhachHang" ;
+     public string Table_NhomNguyenLieu= "NhomNguyenLieu" ;
+     public string Table_NhomSanPham= "NhomSanPham" ;
+     public string Table_NhomTaiKhoan= "NhomTaiKhoan" ;
+     public string Table_Packinglist= "Packinglist" ;
+     public string Table_Packinglist2= "Packinglist2" ;
+     public string Table_Pallet= "Pallet" ;
+     public string Table_PalletMaster= "PalletMaster" ;
+     public string Table_PhieuNhap= "PhieuNhap" ;
+     public string Table_PhieuXuat= "PhieuXuat" ;
+     public string Table_QuocGia= "QuocGia" ;
+     public string Table_SanPham= "SanPham" ;
+     public string Table_SanPhamGia= "SanPhamGia" ;
+     public string Table_TaiKhoan= "TaiKhoan" ;
+     public string Table_TangCa= "TangCa" ;
+     public string Table_ThietLapTinhLuong= "ThietLapTinhLuong" ;
+     public string Table_TienGach= "TienGach" ;
+     public string Table_TienTe= "TienTe" ;
+     public string Table_TinhBaoGia= "TinhBaoGia" ;
+     public string Table_TinhThanh= "TinhThanh" ;
+     public string Table_TonKho= "TonKho" ;
+     public string Table_TyGiaQuyDoi= "TyGiaQuyDoi" ;
+ } 

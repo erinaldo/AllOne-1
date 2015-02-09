@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="BaoCaoTonKho" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BaoCaoTonKho">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaKho" type="xs:string" minOccurs="0" />
+              <xs:element name="TenNhom" type="xs:string" minOccurs="0" />
+              <xs:element name="MaSP" type="xs:string" minOccurs="0" />
+              <xs:element name="MaMau" type="xs:string" minOccurs="0" />
+              <xs:element name="TenSP" type="xs:string" minOccurs="0" />
+              <xs:element name="TenDVT" type="xs:string" minOccurs="0" />
+              <xs:element name="GiaTrungBinh" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SLDauKy" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GiaTriDauKy" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SLNhap" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GiaTriNhap" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SLXuat" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GiaTriXuat" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SLCuoiKy" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GiaTriCuoiKy" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SLDieuChinh" type="xs:decimal" minOccurs="0" />
+              <xs:element name="LyDoDieuChinh" type="xs:string" minOccurs="0" />
+              <xs:element name="Khoa" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
